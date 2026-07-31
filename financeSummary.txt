@@ -1,0 +1,27 @@
+Monthly Personal Finance Summary
+Name: Leo
+Monthly Budget: $2345.67
+Savings Goal: $345.67
+
+Income Transactions
+Income - Work: $2000.00
+Income - Work: $500.00
+
+Expense Transactions
+Expense - Rent | Category: Housing | Amount: $1000.00
+Expense - Gas | Category: Car | Amount: $200.00
+Expense - Car Insurance | Category: Car | Amount: $100.00
+Expense - Groceries | Category: Food | Amount: $200.00
+Expense - Eating Out | Category: Food | Amount: $100.00
+Expense - Going Out | Category: Fun | Amount: $150.00
+Expense - Climing Membership | Category: Exercise | Amount: $30.00
+Expense - Gym Membership | Category: Exercise | Amount: $23.00
+
+Financial Totals
+Total Income: $2500.00
+Total Expenses: $1803.00
+Remaining Balance: $697.00
+Budget Remaining: $542.67
+Money After Savings: $351.33
+Budget Status: Within Budget
+Savings Status: Savings Goal Can Be Reached
